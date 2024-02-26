@@ -1,0 +1,14 @@
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\bin\Debug\net8.0\Upr_1.exe
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\bin\Debug\net8.0\Upr_1.deps.json
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\bin\Debug\net8.0\Upr_1.runtimeconfig.json
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\bin\Debug\net8.0\Upr_1.dll
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\bin\Debug\net8.0\Upr_1.pdb
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\Upr_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\Upr_1.AssemblyInfoInputs.cache
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\Upr_1.AssemblyInfo.cs
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\Upr_1.csproj.CoreCompileInputs.cache
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\Upr_1.dll
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\refint\Upr_1.dll
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\Upr_1.pdb
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\Upr_1.genruntimeconfig.cache
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\ref\Upr_1.dll
