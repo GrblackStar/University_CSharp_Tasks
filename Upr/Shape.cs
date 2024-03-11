@@ -4,26 +4,28 @@ namespace Upr_1
     public abstract class Shape
     {
         public int colorNumber {  get; set; }
+        private int _color;
         public int ShapeColor
         {
             get
             {
-                switch (colorNumber)
+                /*switch (colorNumber)
                 {
                     case Color.Red: return 0x00FF0000;
                     case Color.Green: return 0x0000FF00;
                     case Color.Blue: return 0x000000FF;
                     default: return 0x000000FF;
-                }
+                }*/
+                return _color;
             }
             set
             {
                 switch (colorNumber)
                 {
-                    case 0x00FF0000: ShapeColor = 1; break;
-                    case 0x0000FF00: ShapeColor = 2; break;
-                    case 0x000000FF: ShapeColor = 3; break;
-                    default: ShapeColor = 1; break;
+                    case 0x00FF0000: _color = 1; break;
+                    case 0x0000FF00: _color = 2; break;
+                    case 0x000000FF: _color = 3; break;
+                    default: _color = 1; break;
                 }
             }
         }

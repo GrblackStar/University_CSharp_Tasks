@@ -12,3 +12,4 @@ C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net
 C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\Upr_1.pdb
 C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\Upr_1.genruntimeconfig.cache
 C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\ref\Upr_1.dll
+C:\Users\HHristova\Documents\GitHubRepos\Uni\C#_Programing\Upr\Upr\obj\Debug\net8.0\Upr_1.sourcelink.json
