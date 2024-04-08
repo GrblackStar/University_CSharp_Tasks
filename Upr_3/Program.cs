@@ -54,9 +54,9 @@ namespace Upr_3
         {
             // Display menu options
             Console.WriteLine("Choose an option:");
-            Console.WriteLine("1. Whois");
-            Console.WriteLine("2. Current Local Time");
-            Console.WriteLine("3. Scrape data from a Website");
+            Console.WriteLine("1. Task 1. Whois");
+            Console.WriteLine("2. Task 2. Current Local Time");
+            Console.WriteLine("3. Task 3. Scrape data from a Website");
         }
 
         static void ExecuteWhois()
